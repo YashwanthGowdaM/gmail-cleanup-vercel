@@ -1,1 +1,1 @@
-# gmail-cleanup-vercel
+Refer to the canvas document for full README.
